@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1548245028 source:c:\users\rupanshu\desktop\project data\dxs\main.cpp
+	<iostream>
+	"Screen.h"
+	"Agent.h"
+
+1548274056 source:c:\users\rupanshu\desktop\project data\dxs\src\agent.cpp
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<sstream>
+	<ctype.h>
+	"Screen.h"
+	<string.h>
+	"Agent.h"
+
+1548267900 c:\users\rupanshu\desktop\project data\dxs\include\agent.h
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"Screen.h"
+
+1547841327 c:\users\rupanshu\desktop\project data\dxs\include\screen.h
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1547840998 source:c:\users\rupanshu\desktop\project data\dxs\src\screen.cpp
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"Screen.h"
+	<cwchar>
+
+1547835033 c:\users\rupanshu\desktop\project data\dxs\src\screen.cpp
+	<fstream>
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"Screen.h"
+	<cwchar>
+
